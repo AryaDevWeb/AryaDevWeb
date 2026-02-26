@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wallet%20Here!%20🌈&fontSize=50&animation=fadeIn&fontAlignY=38" alt="header" />
-</p>
 <h1 align="center">Hi 👋, I'm Angga Ariya Saputra</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
